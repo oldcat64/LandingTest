@@ -1,0 +1,58 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.default {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    width: 960px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    align-items: center;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.Segment1 {
+    display: flex;
+    align-items: center;
+    height: 300px;
+    padding: 50px;
+}
+
+.image1 {
+    margin-left: auto;
+}
+
+.logo {
+    font-weight: bolder;
+    font-size: 24px;
+}
+
+.sub1 {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.signup1 {
+    background-color: #3882F6;
+    color: white;
+    font-size: 18px;
+    font-weight: bolder;
+    border-radius: 10px;
+    width: 100px;
+    height: 40px;
+    border: none;
+
+}
+
+
+
